@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> I installed pyhton 3. The reason I used Jupyter notebook earlier which requires python 3.  
+>> I installed pyhton 3. The reason is I have used Jupyter notebook earlier which requires python 3.  
 
 ### Q2. Which Python Version Installed   
 
